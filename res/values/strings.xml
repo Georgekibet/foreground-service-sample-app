@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foreground Service Sample</string>
+    <string name="not_foreground">Service as background</string>
+    <string name="foreground">Service as foreground</string>
+    <string name="author">Author: supercurio</string>
+
+</resources>
